@@ -35,7 +35,7 @@ I have been been collaberated by alot of people, you should check them out!
 ---
 
 <!-- Bottom Section with Rectangle Image -->
-<h2 align="center">
+<h1 align="center">
   
 Fluxus Z Executer 
 
