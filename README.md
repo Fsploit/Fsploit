@@ -37,6 +37,7 @@ I have been been collaberated by alot of people, you should check them out!
 <!-- Bottom Section with Rectangle Image -->
 <h2 align="center">Fluxus Z Executer/h2>
 
+
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQase5umnpZD68mFr1W725foRqhcst1iC9GVw&usqp=CAU" alt="Rectangle Image">
 </p>
