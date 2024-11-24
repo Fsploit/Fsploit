@@ -35,8 +35,9 @@ I have been been collaberated by alot of people, you should check them out!
 ---
 
 <!-- Bottom Section with Rectangle Image -->
-<h2 align="center">Fluxus Z Executer 
-
+<h2 align="center">
+  
+Fluxus Z Executer 
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQase5umnpZD68mFr1W725foRqhcst1iC9GVw&usqp=CAU" alt="Rectangle Image">
@@ -44,8 +45,12 @@ I have been been collaberated by alot of people, you should check them out!
 
 <p align="center">
 
+``
 I am their developer on there script hub, Check our server out!
-  
+``
+
+``
 Link: https://discord.gg/fluxusz
+``
 
 </p>
