@@ -26,7 +26,7 @@ Luadroid - playstore
 Code Studio - play store
 ```
 
-I have been been collaberated by alot of people, you should check them out!
+I have been been collaberated by alot of people, you should check them out below this text!
 
 
 
@@ -45,12 +45,12 @@ Fluxus Z Executer
 
 <p align="center">
 
-``
+```
 I am their developer on there script hub, Check our server out!
-``
+```
 
-``
+```
 Link: https://discord.gg/fluxusz
-``
+```
 
 </p>
