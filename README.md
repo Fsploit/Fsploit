@@ -5,7 +5,7 @@
 
 <!-- Small Square Image with Title -->
 <p align="center">
-  <img src="https://via.placeholder.com/200x200" alt="Square Image">
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b5f89331-2859-43a1-b6b3-bc61ab48e0c4-profile_image-150x150.jpeg" alt="Square Image">
 </p>
 
 <h1 align="center">Fsploit</h1>
