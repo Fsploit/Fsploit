@@ -1,7 +1,15 @@
 <!-- Top Image (Rectangle) -->
 <p align="center">
+  Welcome to my profile~
+</p>
+
+<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkL7640kq2WeILRiZZKdKliMJyB9Wr0rBoQUs4HNjTgFA-03a51uWpP4b2&s=10" alt="Rectangle Image">
 </p>
+
+
+
+
 
 ---
 
