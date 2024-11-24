@@ -14,9 +14,9 @@
 
 <p align="center">
   
-# Hello, i am Fsploit, With 2.5 years of experience in lua coding, i have made 100+ script in the past year,
+Hello, i am Fsploit, With 2.5 years of experience in lua coding, i have made 100+ script in the past year,
 
-# i code on mobile, here is the apps on what i code on.
+I code on mobile, here is the apps on what i code on.
 
 ```
 Luadroid - playstore
@@ -26,18 +26,24 @@ Luadroid - playstore
 Code Studio - play store
 ```
 
+I have been been collaberated by alot of people, you should check them out!
+
+
 
 </p>
 
 ---
 
 <!-- Bottom Section with Rectangle Image -->
-<h2 align="center">Title Here</h2>
+<h2 align="center">Fluxus Z Executer/h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200" alt="Rectangle Image">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQase5umnpZD68mFr1W725foRqhcst1iC9GVw&usqp=CAU" alt="Rectangle Image">
 </p>
 
 <p align="center">
-  Content here.
+
+I am their developer on there script hub, Check our server out!
+  
+Link: https://discord.gg/fluxusz
 </p>
