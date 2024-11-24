@@ -1,6 +1,9 @@
 <!-- Top Image (Rectangle) -->
 <p align="center">
-  Welcome to my profile~
+ 
+  
+# Welcome to my profile~
+
 </p>
 
 <p align="center">
@@ -52,13 +55,10 @@ Fluxus Z Executer
 </p>
 
 <p align="center">
+  Fluxus Z Executer is a team of people updating the original fluxus Executer, i am their developer for their script hub since i am experienced enough to make gui clients on any game using darkdex, check out our server!
 
+Link
 ```
-I am their developer on there script hub, Check our server out!
+https://discord.gg/fluxusz
 ```
-
-```
-Link: https://discord.gg/fluxusz
-```
-
 </p>
