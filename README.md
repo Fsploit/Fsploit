@@ -18,7 +18,7 @@
 
 <!-- Small Square Image with Title -->
 
-<h1 align="center">Fsploit</h1>
+<h1 align="center"><b>Hello, Im Fsploit! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://yt3.ggpht.com/l9MRAFrRy6fuQ3mWkDYXTH7ruBgvsOUWanVUCe2aNuLNemqG8X8-LGNZNVUbuCMP6ZOh3q8w=s160-c-k-c0x00ffffff-no-rj" alt="Square Image">
