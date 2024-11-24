@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejPJj2WBUVx6I7DvkuN9iljGOQaYypJtCEqut1AAUag&s" alt="Rectangle Image">
 </p>
+
 ---
 
 <!-- Small Square Image with Title -->
