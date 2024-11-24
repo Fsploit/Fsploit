@@ -38,6 +38,18 @@ Luadroid - playstore
 Code Studio - play store
 ```
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<br>
+
+[•] - Can code using Any mobile devices
+
+[•] - Can code Lua/LuaU roblox
+
+[•] - Can Fix any broken Codes
+
+[•] - Can Bring back Old scripts to Life
+
+
 I have been been collaberated by alot of people, you should check them out below this text!
 
 
