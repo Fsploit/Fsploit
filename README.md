@@ -7,7 +7,7 @@
 
 <!-- Small Square Image with Title -->
 <p align="center">
-  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b5f89331-2859-43a1-b6b3-bc61ab48e0c4-profile_image-150x150.jpeg" alt="Square Image">
+  <img src="https://yt3.ggpht.com/l9MRAFrRy6fuQ3mWkDYXTH7ruBgvsOUWanVUCe2aNuLNemqG8X8-LGNZNVUbuCMP6ZOh3q8w=s160-c-k-c0x00ffffff-no-rj" alt="Square Image">
 </p>
 
 <h1 align="center">Fsploit</h1>
