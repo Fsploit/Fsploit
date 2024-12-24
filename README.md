@@ -2,7 +2,6 @@
 <p align="center">
  
   
-# Welcome to my profile~
 
 </p>
 
@@ -62,14 +61,14 @@ I have been been collaberated by alot of people, you should check them out below
 <h1 align="center">Fluxus Z Executer</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQase5umnpZD68mFr1W725foRqhcst1iC9GVw&usqp=CAU" alt="Rectangle Image">
+  <img src="https://frostware.vercel.app/logo.png" alt="Rectangle Image">
 </p>
 
 <p align="center">
-  Fluxus Z Executer is a team of people updating the original fluxus Executer, i am their developer for their script hub since i am experienced enough to make gui clients on any game using darkdex, check out our server!
+  Frostware, Frostware is an Roblox executer utility for users! as an part of their team we would like you to join us!
 
 Link
 ```
-https://discord.gg/fluxusz
+https://discord.gg/GetFrost
 ```
 </p>
