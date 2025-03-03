@@ -58,7 +58,7 @@ I have been been collaberated by alot of people, you should check them out below
 ---
 
 <!-- Bottom Section with Rectangle Image -->
-<h1 align="center">Fluxus Z Executer</h1>
+<h1 align="center">Frostware Executer</h1>
 
 <p align="center">
   <img src="https://frostware.vercel.app/logo.png" alt="Rectangle Image">
